@@ -61,4 +61,3 @@ Easy
     Warning Events: 1
     Error Events: 1
     ```
-
