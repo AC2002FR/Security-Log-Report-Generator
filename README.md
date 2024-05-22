@@ -9,10 +9,6 @@ This project generates security reports based on system logs. The script reads l
 - Python
 - Pandas
 
-## Difficulty Level
-
-Easy
-
 ## Prerequisites
 
 - Python 3.x installed on your system
