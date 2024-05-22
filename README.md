@@ -23,7 +23,7 @@ Easy
 1. Clone the repository or download the source code.
 
     ```bash
-    git clone https://github.com/AC2002FR/security_log_report_generator.git
+    git clone https://github.com/AC2002FR/Security-Log-Report-Generator
     cd security_log_report_generator
     ```
 
